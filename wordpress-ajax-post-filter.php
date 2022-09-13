@@ -1,14 +1,14 @@
 <?php
 /*
-Plugin Name:  Andlang Post Filter
+Plugin Name:  Wordpress Ajax Post Filter
 Plugin URI:   
 Description:  
 Version:      1.0
-Author:       andlang 
+Author:       Mohit Kumar
 Author URI:   
 License:      
 License URI:  
-Text Domain:  andlang-post-filter
+Text Domain:  wordpress-ajax-post-filter
 Domain Path:  
 */
 require_once dirname(__FILE__).'/all_posts_listing.php';
